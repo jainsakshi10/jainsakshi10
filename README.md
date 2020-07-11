@@ -4,14 +4,10 @@
 
 ## Hi there 👋 Welcome to my profile
 
-
-<!--
-**jainsakshi10/jainsakshi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here is something about me:
 - 💁‍♀️ I'm a Computer Science Student at IGDTUW.
 - 📖 Currently working on Web Development.
 - 💙 C++
 - 📫 How to reach me: www.linkedin.com/in/sakshi10
 
--->
+
