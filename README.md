@@ -8,6 +8,6 @@ Here is something about me:
 - 💁‍♀️ I'm a Computer Science Student at IGDTUW.
 - 📖 Currently working on Web Development.
 - 💙 C++
-- 📫 How to reach me: [LINKEDIN](www.linkedin.com/in/sakshi10)
+- 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/sakshi10/)
 
 
