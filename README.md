@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Sakshi 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Sakshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b></h1>
 </p>
 
 
