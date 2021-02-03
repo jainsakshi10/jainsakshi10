@@ -46,6 +46,6 @@
 <br>
 ⭐️ From [Sakshi🌈][Sakshi]
 
-[Sakshi]: (https://github.com/jainsakshi10)
+[Sakshi]: https://github.com/jainsakshi10/
 
 [linkedin]: https://www.linkedin.com/in/sakshi10/
