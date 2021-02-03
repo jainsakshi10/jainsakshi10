@@ -44,7 +44,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsakshi10&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sakshi's Top Languages">
 <br>
-⭐️ From [Sakshi][Sakshi]
+⭐️ From [Sakshi🌈][Sakshi]
 
 [Sakshi]: (https://github.com/jainsakshi10)
 
